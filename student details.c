@@ -1,6 +1,6 @@
 //Questions-1
 
-//write the
+//write the  c program for student name,course,marks in simple way
 
 #include<stdio.h>
 main()
