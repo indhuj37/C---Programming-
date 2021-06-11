@@ -1,3 +1,7 @@
+//Questions-1
+
+//write the
+
 #include<stdio.h>
 main()
 {
