@@ -1,3 +1,5 @@
+//write the c program for name,age of particular person 
+
 #include<stdio.h>
 main()
 {
