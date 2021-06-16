@@ -5,6 +5,6 @@ main()
     int salary;
     printf("\nEnter your employee name:");
     scanf("\n%s",ename);
-    printf("\nEnter youremployee salary:");
+    printf("\nEnter your employee salary:");
     scanf("\n%d",&salary);
 }
