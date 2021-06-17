@@ -1,6 +1,6 @@
 // IF STATEMENT
 
-// Write the c language using If condition like which is greater comparing A & B 
+// Write the c language using If condition like which is greater comparing A  value & B value 
 #include <stdio.h>
 main()
 {
