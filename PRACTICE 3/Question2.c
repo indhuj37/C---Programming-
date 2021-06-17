@@ -1,4 +1,4 @@
-
+// write the c language for Multiplication of two numbers 
 #include <stdio.h>
 main()
 {
