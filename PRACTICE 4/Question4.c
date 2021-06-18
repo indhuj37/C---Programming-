@@ -1,4 +1,6 @@
+// IF STATEMENT
 
+// Write the c language using If condition like which is to check whether given number is positive or negative
 #include <stdio.h>
 main()
 {   int num;
