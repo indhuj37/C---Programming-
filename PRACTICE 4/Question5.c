@@ -1,4 +1,6 @@
+// IF STATEMENT
 
+// Write the c language using If condition like which is to check whether a given number is even or odd
 #include <stdio.h>
 main()
 {
