@@ -1,4 +1,6 @@
+// IF STATEMENT
 
+// Write the c language using If condition like which is lesser comparing A value & B value
 #include <stdio.h>
 main()
 {
