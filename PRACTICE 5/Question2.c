@@ -1,4 +1,6 @@
+//IF ELSE CONDITION
 
+// Write the c language for Greatest among 3 numbers for values a,b,c & d
 #include <stdio.h>
 main()
 {
