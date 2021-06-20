@@ -1,6 +1,6 @@
 //IF ELSE CONDITION
 
-// Write the c language for Greatest among 3 numbers
+// Write the c language for Greatest among 3 numbers for values a,b & c
 #include <stdio.h>
 main()
 {
