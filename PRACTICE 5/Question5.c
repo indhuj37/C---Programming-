@@ -1,4 +1,6 @@
+//IF-ELSE CONDITION
 
+//Write the c program to accept the height of a person in centimeters and categorize person height
 #include <stdio.h>
 main()
 {
