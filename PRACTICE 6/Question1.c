@@ -1,3 +1,6 @@
+// CHAR DATATYPE
+
+//Write the c program for calculator using char data type
 #include <stdio.h>
 main()
 {
