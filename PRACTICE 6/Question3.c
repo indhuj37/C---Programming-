@@ -1,4 +1,6 @@
+//CHARDATA TYPE
 
+//Write the c program to check whether vowels or not
 #include <stdio.h>
 main()
 {
