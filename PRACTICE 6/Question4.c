@@ -1,4 +1,6 @@
+//CHAR DATA TYPE
 
+//Write the c program to check char datatype using Calculator program
 #include <stdio.h>
 main()
 {
