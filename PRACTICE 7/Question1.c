@@ -1,3 +1,6 @@
+//FOR LOOP
+
+//Write a program in c to display the first 10 natural numbers
 
 #include <stdio.h>
 main()
