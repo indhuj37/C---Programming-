@@ -1,4 +1,6 @@
+//FOR LOOP
 
+//Write the c program the number in reverse order 
 
 #include <stdio.h>
 main()
