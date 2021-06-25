@@ -1,6 +1,6 @@
 //FOR LOOP
 
-//Write the c program
+//Write the c program for the odd numbers
 #include <stdio.h>
 main()
 {
