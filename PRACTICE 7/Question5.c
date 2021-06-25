@@ -1,3 +1,7 @@
+//FOR LOOP
+
+//Write the c program to display number in reverse order
+
 #include <stdio.h>
 main()
 {
