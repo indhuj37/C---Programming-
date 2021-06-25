@@ -1,4 +1,6 @@
+//FOR LOOP
 
+//Write the c program
 #include <stdio.h>
 main()
 {
