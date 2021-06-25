@@ -1,4 +1,6 @@
+//FOR LOOP
 
+//Write the c program to check the square numbers 
 #include <stdio.h>
 main()
 {
