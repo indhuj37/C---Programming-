@@ -1,4 +1,6 @@
+// char datatype 
 
+//Write the c program for the student to select the course they want
 #include <stdio.h>
 main()
 {
