@@ -1,4 +1,6 @@
+//FOR LOOP
 
+//Write the c program to print the tables 10 times
 
 #include <stdio.h>
 main()
