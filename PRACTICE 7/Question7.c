@@ -1,3 +1,6 @@
+//IF CONDITION
+
+//Write the c program to print the name 10 times using If condition
 #include <stdio.h>
 main()
 {
