@@ -1,6 +1,7 @@
-//IF CONDITION
+//FOR LOOP 
 
-//Write the c program to print the name 10 times using If condition
+//Write the c program to print the name 10 times using For loop
+
 #include <stdio.h>
 main()
 {
