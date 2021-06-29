@@ -1,3 +1,7 @@
+//FOR LOOP
+
+//Write the c program to  display Multiplication tables  
+
 #include <stdio.h>
 main()
 {
