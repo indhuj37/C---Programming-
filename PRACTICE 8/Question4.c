@@ -1,3 +1,6 @@
+//WHILE LOOP
+
+//Write the c program to display the multiplication table in while loop
 #include <stdio.h>
 main()
 {
