@@ -1,4 +1,6 @@
+//WHILE LOOP
 
+//Write the c program to check the odd numbers in while loop
 #include <stdio.h>
 main()
 {
