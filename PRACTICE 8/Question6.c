@@ -1,4 +1,6 @@
+//WHILE LOOP
 
+//Write the c program to display the name 10 times in while loop
 #include <stdio.h>
 main()
 {
