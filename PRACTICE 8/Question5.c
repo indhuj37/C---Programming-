@@ -1,4 +1,6 @@
+//WHILE LOOP
 
+//Write the c program to display the numbers in reverse order in while loop
 #include <stdio.h>
 main()
 {
