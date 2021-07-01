@@ -1,3 +1,5 @@
+//FLOAT
+
 //Write the c program to display the average of a,b and c
 
 #include <stdio.h>
