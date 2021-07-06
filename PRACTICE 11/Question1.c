@@ -1,4 +1,9 @@
+//ARRAY
 
+//Storing more data in single variable.
+//an array is a collection of data items,all of the same type,accessed using a common name.
+
+//Write the c program to display the student mark 
 #include <stdio.h>
 main()
 {
