@@ -2,7 +2,7 @@
 
 //Roll No
 
-//Write the  c program to display roll no of the student
+//Write the c program to display  the roll no of the student
 #include<stdio.h>
 main()
 {
