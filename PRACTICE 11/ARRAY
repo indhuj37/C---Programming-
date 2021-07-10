@@ -7,5 +7,6 @@
   
  An array is a collection of data items, all of the same type, accessed using a common name
  a one dimensional array is like 
- some texts refer to one-dimensional arrays as vectors, two-dimensional array as matrices, and use the general term 
+ some texts refer to one-dimensional arrays as vectors, two-dimensional array as matrices, and use the general term arrays when the number of dimensions is unspecified or umimportant.
+ 
  
