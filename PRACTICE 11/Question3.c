@@ -1,4 +1,8 @@
+//ARRAY
 
+//SUM ARRAY ELEMENT
+
+//Write the c program to display the student mark and total 
 #include<stdio.h>
 main()
 {
