@@ -17,3 +17,5 @@
  listed within the square brackets.
  
  Dimension used when declaring arrays in c must be positive integral constants or constant expressions.
+ In C99, dimension must still be positive integers, but variables can be used , so long as the variable has a positive value time the array is declared.
+ The array is declared .The array does not change sizes later if the variables to declare its changes
