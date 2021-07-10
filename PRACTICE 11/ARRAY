@@ -9,4 +9,9 @@
  a one dimensional array is like 
  some texts refer to one-dimensional arrays as vectors, two-dimensional array as matrices, and use the general term arrays when the number of dimensions is unspecified or umimportant.
  
+ //DECLARING ARRAYS
  
+ Array variables are declared identically to variables of their data type, expect that the variables name is followed by one pair square[]
+ brackets for eachdimension of the array
+ uninitialized arrays must have the dimensions of their rows,columns etc.
+ listed within the square brackets.
