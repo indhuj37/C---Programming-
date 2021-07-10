@@ -1,1 +1,3 @@
-AN array is a collection of data items,all 
+ * An array is a collection of data items,all of the type, accessed using a common name.
+ * A one-dimensional array is like a list:
+ A two dimensional array is like a table
