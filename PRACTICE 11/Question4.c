@@ -1,4 +1,6 @@
+//ARRAY
 
+//Write the c program to display the lowest mark of the student
 #include <stdio.h>
 main()
 {
