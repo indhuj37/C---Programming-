@@ -1,3 +1,6 @@
+//ARRAY
+
+//Write the c program to display the student total and average marks
 
 #include <stdio.h>
 main()
