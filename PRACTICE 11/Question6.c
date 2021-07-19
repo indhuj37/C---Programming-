@@ -1,6 +1,6 @@
 //HIGHEST ARRAY ELEMENT
 
-//Write the c program to check whether highest array element of the student
+
 
 #include <stdio.h>
 main()
