@@ -2,6 +2,7 @@
 
 //ARRAY
 
+//Printing first highest and second highest in Array element
 
 #include<stdio.h>
 int main()
