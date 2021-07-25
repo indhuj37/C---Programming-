@@ -1,3 +1,6 @@
+//c Language
+
+//Write the c program and print the name of the student 5 times in array element
 #include<stdio.h>
 main()
 {
