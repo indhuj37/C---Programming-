@@ -1,5 +1,7 @@
 //DO-WHILE LOOP
 
+//c Language
+
 //Write the c program to display the odd numbers in Do-while loop
 #include <stdio.h>
 main()
