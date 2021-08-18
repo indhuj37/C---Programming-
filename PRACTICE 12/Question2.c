@@ -1,4 +1,4 @@
-//C
+//C language
 
 //Write the c program to check the student studying the course
 #include<stdio.h>
