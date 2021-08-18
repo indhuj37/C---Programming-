@@ -1,3 +1,6 @@
+//C
+
+//Write the c program to check the student st
 #include<stdio.h>
  int main()
 {
