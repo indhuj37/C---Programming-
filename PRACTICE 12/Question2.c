@@ -1,6 +1,6 @@
 //C
 
-//Write the c program to check the student st
+//Write the c program to check the student studying the course
 #include<stdio.h>
  int main()
 {
