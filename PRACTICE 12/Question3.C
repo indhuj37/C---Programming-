@@ -1,6 +1,7 @@
 //ARRAY
 
 //Write the c program to check the student name in an array
+
 #include<stdio.h>
 int main()
 {
